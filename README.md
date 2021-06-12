@@ -5,6 +5,7 @@ Student Career+ App - Flutter Project
 ## About Application
 
 Check out this video - https://www.linkedin.com/posts/santhosh-t-4b15b315b_selftaught-flutterapp-firebase-activity-6782254014089318400-9jYM
+
 This mobile app is developed for the purpose of improving student interaction with their respective staff.
 The application's main moto is to provide cloud based services for instant information transfer.
 This application uses Flutter UI Toolkit as front end and Firebase cloud service for back end cloud based services.
@@ -17,8 +18,6 @@ Student Career+ App is completely developed by a Self taught process. By underta
 # Team members
 
  SANTHOSH. T (Author) - B.E CSE, PANIMALAR ENGINEERING COLLEGE 
- 
- LinkedIn - https://www.linkedin.com/in/santhosh-t-4b15b315b/
  
  SURESH KANNAN. K - B.E CSE, PANIMALAR ENGINEERING COLLEGE
  
@@ -61,3 +60,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# My LinkedIn Profile - 
+https://www.linkedin.com/in/santhosh-t-4b15b315b/
