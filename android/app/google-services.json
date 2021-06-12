@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024326067125",
+    "project_id": "pecstudentappv1",
+    "storage_bucket": "pecstudentappv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024326067125:android:26ad2fb009901ff831effc",
+        "android_client_info": {
+          "package_name": "pec.santhosh.student_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024326067125-t0b7lgf2finhm0vimvllkcehhd73ubip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pec.santhosh.student_app",
+            "certificate_hash": "cd8c42a488173b78d58950291305410201e71b5d"
+          }
+        },
+        {
+          "client_id": "1024326067125-568tcpl31rpi0h576rhm0c9eg2kjoh1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRWRfsM46HXBpR3NSJqSO-OkDmRSKr1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024326067125-568tcpl31rpi0h576rhm0c9eg2kjoh1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
