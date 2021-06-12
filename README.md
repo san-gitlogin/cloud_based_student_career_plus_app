@@ -35,11 +35,15 @@ Make sure you have Android Studio, VS Code or any other platform that could emul
 Step 1: Download and Install Android Studio on your Laptop or PC.
 
 Step 2: Download and install Latest SDK's of Flutter and Dart. 
+
         Flutter : https://flutter.dev/docs/get-started/install
+        
         Dart : https://dart.dev/get-dart
         
 Step 3: Open Android Studio and set up your virtual devices (OR) Connect your Android Device(USB Debugging enabled) onto your Laptop/PC
+
         Preferred Virtual device : PIXEL 4XL API 30 
+        
         Refer this link on how to set up virtual devices : https://developer.android.com/studio/run/managing-avds
         
 Step 4: Go to File -> New -> Project from version control.
@@ -54,7 +58,9 @@ Step 8: Click on "Clone" and wait for Android Studio to fetch the project files 
 
 Step 9: Once the project files are loaded, Search for "pubspec.yaml" file in the project folder and open it.
 
-Step 10: On the top right, Android studio might show a pop up bar with options named "pub get" "pub upgrade". Click on either of these and wait for Android studio to fetch necessary packages to run the application. Refer this documentation for more knowledge -> https://flutter.dev/docs/development/packages-and-plugins/using-packages
+Step 10: On the top right, Android studio might show a pop up bar with options named "pub get" "pub upgrade". Click on either of these and wait for Android studio to fetch necessary packages to run the application. 
+
+Refer this documentation for more knowledge -> https://flutter.dev/docs/development/packages-and-plugins/using-packages
 
 Step 11: Once everything is done, Choose your Android device on the top dropdown button and click on Run (A green play button on the top right) or press Shift+F10.
 
