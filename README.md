@@ -15,7 +15,9 @@ Student Career+ App is completely developed by a Self taught process. By underta
 # Team members
 
  SANTHOSH. T (Author) - B.E CSE, PANIMALAR ENGINEERING COLLEGE
+ 
  SURESH KANNAN. K - B.E CSE, PANIMALAR ENGINEERING COLLEGE
+ 
  PRADEEP. P - B.E CSE, PANIMALAR ENGINEERING COLLEGE
 
 ## Getting Started
