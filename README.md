@@ -6,6 +6,8 @@ Student Career+ App - Flutter Project
 
 Check out this video - https://www.linkedin.com/posts/santhosh-t-4b15b315b_selftaught-flutterapp-firebase-activity-6782254014089318400-9jYM
 
+PROJECT DEMO WITH EXPLANATION - https://www.youtube.com/watch?v=yxGhXJDuVW4
+
 This mobile app is developed for the purpose of improving student interaction with their respective staff.
 The application's main moto is to provide cloud based services for instant information transfer.
 This application uses Flutter UI Toolkit as front end and Firebase cloud service for back end cloud based services.
