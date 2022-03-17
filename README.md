@@ -2,10 +2,10 @@
 
 Student Career+ App - Cloud based Flutter Project
 
+https://user-images.githubusercontent.com/9679358/158831926-2c8a46d4-fe6f-4f94-b4c7-e1e2854dabd6.mp4
+
 
 ## About Application
-
-Check out this video - https://www.linkedin.com/posts/santhosh-t-4b15b315b_selftaught-flutterapp-firebase-activity-6782254014089318400-9jYM
 
 PROJECT DEMO VIDEO WITH EXPLANATION - https://www.youtube.com/watch?v=yxGhXJDuVW4
 
