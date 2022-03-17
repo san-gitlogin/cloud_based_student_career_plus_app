@@ -13,6 +13,8 @@ This mobile app is developed for the purpose of improving student interaction wi
 The application's main moto is to provide cloud based services for instant information transfer.
 This application uses Flutter UI Toolkit as front end and Firebase cloud service for back end cloud based services.
 
+![JOURNAL ARCHITECTURE](https://user-images.githubusercontent.com/9679358/158840095-810ec7df-3655-4fe6-83aa-20e9818569cd.png)
+
 
 ## About Us
 
